@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "node server.js"  // Adjust according to your main entry file
+    "start": "node server.js" 
   }
 }
